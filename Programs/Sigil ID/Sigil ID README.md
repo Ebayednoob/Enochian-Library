@@ -2,8 +2,10 @@
 
 ## Description
 
-The Advanced Sigil Analyzer is a multi-functional Python desktop application designed for extracting, analyzing, and interacting with sigils and symbols from PDF documents, particularly those of an esoteric or historical nature. It combines PDF parsing, Optical Character Recognition (OCR), image processing, and Large Language Model (LLM) integration to provide a comprehensive toolkit for researchers and enthusiasts.
-[A youtube Tutorial is shown here](https://youtu.be/VOzuVdyA3LQ)
+The Advanced Sigil Analyzer is a multi-functional Python desktop application designed for extracting, analyzing, and interacting with sigils and symbols from PDF documents, particularly those of an esoteric or historical nature. It combines PDF parsing, Optical Character Recognition (OCR), image processing, and Large Language Model (LLM) integration to provide a comprehensive toolkit for researchers and enthusiasts.<br>
+
+[A youtube Tutorial is shown here](https://youtu.be/VOzuVdyA3LQ)<br>
+
 The application allows users to:
 1.  **Scan PDFs**: Extract textual entries and visual sigils from PDF documents, with an option to use OCR for image-based PDFs. Visual overlays during scanning highlight detected elements.
 2.  **Query Data**: Load and search through the extracted data, including text and associated sigil images.
